@@ -1,111 +1,133 @@
-Client #0 arrives at: 16 with service: 5
-Client #1 arrives at: 14 with service: 9
-Client #2 arrives at: 12 with service: 9
-Client #3 arrives at: 7 with service: 2
-Client #4 arrives at: 10 with service: 3
-Client #5 arrives at: 2 with service: 9
-Client #6 arrives at: 18 with service: 2
-Client #7 arrives at: 11 with service: 3
-Client #8 arrives at: 18 with service: 7
-Client #9 arrives at: 3 with service: 2
-Client #10 arrives at: 7 with service: 6
-Client #11 arrives at: 7 with service: 9
-Client #12 arrives at: 15 with service: 7
-Client #13 arrives at: 15 with service: 5
-Client #14 arrives at: 12 with service: 8
-Client #15 arrives at: 21 with service: 3
-Client #16 arrives at: 13 with service: 6
-Client #17 arrives at: 13 with service: 5
-Client #18 arrives at: 11 with service: 4
-Client #19 arrives at: 4 with service: 9
+Client #0 arrives at: 19 with service: 5
+Client #1 arrives at: 1 with service: 8
+Client #2 arrives at: 5 with service: 5
+Client #3 arrives at: 7 with service: 3
+Client #4 arrives at: 9 with service: 7
+Client #5 arrives at: 16 with service: 5
+Client #6 arrives at: 17 with service: 4
+Client #7 arrives at: 12 with service: 3
+Client #8 arrives at: 17 with service: 8
+Client #9 arrives at: 2 with service: 6
+Client #10 arrives at: 6 with service: 6
+Client #11 arrives at: 6 with service: 4
+Client #12 arrives at: 17 with service: 4
+Client #13 arrives at: 13 with service: 2
+Client #14 arrives at: 11 with service: 4
+Client #15 arrives at: 19 with service: 2
+Client #16 arrives at: 15 with service: 8
+Client #17 arrives at: 8 with service: 8
+Client #18 arrives at: 4 with service: 2
+Client #19 arrives at: 12 with service: 7
+Client #20 arrives at: 8 with service: 3
+Client #21 arrives at: 5 with service: 4
+Client #22 arrives at: 16 with service: 8
+Client #23 arrives at: 13 with service: 3
+Client #24 arrives at: 15 with service: 4
+Client #25 arrives at: 18 with service: 2
+Client #26 arrives at: 12 with service: 5
+Client #27 arrives at: 6 with service: 4
+Client #28 arrives at: 2 with service: 8
+Client #29 arrives at: 2 with service: 6
 0:
 1:
+Client #1 added to thread #0
+Client #1 remaining time: 8
 2:
-Client #5 added to thread #0
-Client #5 remaining time: 9
-3:
 Client #9 added to thread #1
-Client #5 remaining time: 8
-Client #9 remaining time: 2
+Client #28 added to thread #1
+Client #29 added to thread #0
+Client #1 remaining time: 7
+Client #9 remaining time: 6
+3:
+Client #1 remaining time: 6
+Client #9 remaining time: 5
 4:
-Client #19 added to thread #1
-Client #5 remaining time: 7
-Client #9 remaining time: 1
+Client #18 added to thread #0
+Client #1 remaining time: 5
+Client #9 remaining time: 4
 5:
-Client #5 remaining time: 6
-Client #9 left
-Client #19 remaining time: 9
+Client #2 added to thread #1
+Client #21 added to thread #0
+Client #1 remaining time: 4
+Client #9 remaining time: 3
 6:
-Client #5 remaining time: 5
-Client #19 remaining time: 8
-7:
-Client #3 added to thread #0
-Client #10 added to thread #0
+Client #10 can't be added because he will not be able to finish his task in time.
 Client #11 can't be added because he will not be able to finish his task in time.
-Client #5 remaining time: 4
-Client #19 remaining time: 7
+Client #27 can't be added because he will not be able to finish his task in time.
+Client #1 remaining time: 3
+Client #9 remaining time: 2
+7:
+Client #3 can't be added because he will not be able to finish his task in time.
+Client #1 remaining time: 2
+Client #9 remaining time: 1
 8:
-Client #5 remaining time: 3
-Client #19 remaining time: 6
-9:
-Client #5 remaining time: 2
-Client #19 remaining time: 5
-10:
-Client #4 added to thread #1
-Client #5 remaining time: 1
-Client #19 remaining time: 4
-11:
-Client #7 added to thread #1
-Client #18 can't be added because he will not be able to finish his task in time.
-Client #5 left
-Client #3 remaining time: 2
-Client #19 remaining time: 3
-12:
-Client #2 can't be added because he will not be able to finish his task in time.
-Client #14 can't be added because he will not be able to finish his task in time.
-Client #3 remaining time: 1
-Client #19 remaining time: 2
-13:
-Client #16 can't be added because he will not be able to finish his task in time.
 Client #17 can't be added because he will not be able to finish his task in time.
-Client #3 left
-Client #10 remaining time: 6
-Client #19 remaining time: 1
-14:
-Client #1 can't be added because he will not be able to finish his task in time.
-Client #10 remaining time: 5
-Client #19 left
-Client #4 remaining time: 3
-15:
-Client #12 can't be added because he will not be able to finish his task in time.
+Client #20 can't be added because he will not be able to finish his task in time.
+Client #1 remaining time: 1
+Client #9 left
+Client #28 remaining time: 8
+9:
+Client #4 can't be added because he will not be able to finish his task in time.
+Client #1 left
+Client #29 remaining time: 6
+Client #28 remaining time: 7
+10:
+Client #29 remaining time: 5
+Client #28 remaining time: 6
+11:
+Client #14 can't be added because he will not be able to finish his task in time.
+Client #29 remaining time: 4
+Client #28 remaining time: 5
+12:
+Client #7 can't be added because he will not be able to finish his task in time.
+Client #19 can't be added because he will not be able to finish his task in time.
+Client #26 can't be added because he will not be able to finish his task in time.
+Client #29 remaining time: 3
+Client #28 remaining time: 4
+13:
 Client #13 can't be added because he will not be able to finish his task in time.
-Client #10 remaining time: 4
-Client #4 remaining time: 2
+Client #23 can't be added because he will not be able to finish his task in time.
+Client #29 remaining time: 2
+Client #28 remaining time: 3
+14:
+Client #29 remaining time: 1
+Client #28 remaining time: 2
+15:
+Client #16 can't be added because he will not be able to finish his task in time.
+Client #24 can't be added because he will not be able to finish his task in time.
+Client #29 left
+Client #18 remaining time: 2
+Client #28 remaining time: 1
 16:
-Client #0 can't be added because he will not be able to finish his task in time.
-Client #10 remaining time: 3
-Client #4 remaining time: 1
+Client #5 can't be added because he will not be able to finish his task in time.
+Client #22 can't be added because he will not be able to finish his task in time.
+Client #18 remaining time: 1
+Client #28 left
+Client #2 remaining time: 5
 17:
-Client #10 remaining time: 2
-Client #4 left
-Client #7 remaining time: 3
-18:
-Client #6 added to thread #0
+Client #6 can't be added because he will not be able to finish his task in time.
 Client #8 can't be added because he will not be able to finish his task in time.
-Client #10 remaining time: 1
-Client #7 remaining time: 2
+Client #12 can't be added because he will not be able to finish his task in time.
+Client #18 left
+Client #21 remaining time: 4
+Client #2 remaining time: 4
+18:
+Client #25 can't be added because he will not be able to finish his task in time.
+Client #21 remaining time: 3
+Client #2 remaining time: 3
 19:
-Client #10 left
-Client #6 remaining time: 2
-Client #7 remaining time: 1
-20:
-Client #6 remaining time: 1
-Client #7 left
-21:
+Client #0 can't be added because he will not be able to finish his task in time.
 Client #15 can't be added because he will not be able to finish his task in time.
-Client #6 left
+Client #21 remaining time: 2
+Client #2 remaining time: 2
+20:
+Client #21 remaining time: 1
+Client #2 remaining time: 1
+21:
+Client #21 left
+Client #2 left
 22:
-Average waiting time for thread #0: 3.75
-Average waiting time for thread #1: 3.5
-Average service time: 5.65
-Peak hour: 7 with average waiting time: 8.5
+Average waiting time for thread #0: 6.25
+Average waiting time for thread #1: 6.0
+Average service time: 4.93
+Peak hour: 5 with average waiting time: 15.0
